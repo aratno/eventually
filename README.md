@@ -9,3 +9,5 @@ I find myself thinking of projects much faster than I can write them down, let a
 a pomodoro terminal app that can linger in a tmux pane
 ### hackbot
 a bot that watches [hack.chat](hack.chat) lobbies and keeps new joins up to speed on the conversation
+### unhunch
+a menu bar application that reminds you to correct your posture at a certain interval
