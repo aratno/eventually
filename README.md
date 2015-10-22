@@ -11,3 +11,5 @@ a pomodoro terminal app that can linger in a tmux pane
 a bot that watches [hack.chat](hack.chat) lobbies and keeps new joins up to speed on the conversation
 ### unhunch
 a menu bar application that reminds you to correct your posture at a certain interval
+### lipqn
+a generator of LaTeX code for arbitary math equations using [L-systems](https://en.wikipedia.org/wiki/L-system)
